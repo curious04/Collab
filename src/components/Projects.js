@@ -36,8 +36,8 @@ export const Projects = () => {
       imgUrl: projImg2,
     },
     {
-      title: "",
-      description: "Design & Development",
+      title: "Explore more",
+      description: "",
       imgUrl: projImg3,
     },
   ];
